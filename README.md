@@ -2,8 +2,7 @@
 A novelty tweak that disables the great TVSystemMenuService (Control Center) on tvOS 13 and swaps it out for ye olde sleep alert from tvOS of yester-year.
 
 # God is Good All The Time and All the time God is good.
-"For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
-For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works." Matthew 16:26-27 KJV.
+"Blessed are the peacemakers: for they shall be called the children of God." - Matthew 5:9 KJV
 
 
 # Get in On iKilledAppl3 LLC.
