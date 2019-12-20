@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>bundle</key>
+		<string>NoSleepTilBrooklyn</string>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>detail</key>
+		<string>NoSleepTilBrooklynRootListController</string>
+		<key>icon</key>
+		<string>NoSleepTilBrooklyn.png</string>
+		<key>isController</key>
+		<string>1</string>
+		<key>label</key>
+		<string>NoSleepTilBrooklyn</string>
+		<key>description</key>
+		<string>&quot;Blessed are the peacemakers: for they shall be called the children of God.&quot; - Matthew 5:9 KJV</string>
+	</dict>
+</dict>
+</plist>
