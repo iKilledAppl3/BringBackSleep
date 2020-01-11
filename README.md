@@ -7,7 +7,7 @@ A novelty tweak that disables the great TVSystemMenuService (Control Center) on 
 
 # Get in On iKilledAppl3 LLC.
 
-[NoSleepTilBrooklyn](https://toxicappl3.github.io/tvrepo/) - Download this free tweak!
+[NoSleepTilBrooklyn](https://toxicappl3inc.github.io/tvrepo/) - Download this free tweak!
 
 ## Built With
 
