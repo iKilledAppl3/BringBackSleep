@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 J.K. Hayslip/iKilledAppl3/ToxicAppl3 INSDC/iKilledAppl3 LLC.
+Copyright (c) 2019 - 2021 J.K. Hayslip (@KilledAppl3)/iKilledAppl3 LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

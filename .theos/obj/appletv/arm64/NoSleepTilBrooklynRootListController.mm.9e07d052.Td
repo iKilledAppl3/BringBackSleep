@@ -1,4 +1,4 @@
-/Users/ikilledappl3/tweaks/BringBackSleep/.theos/obj/appletv/arm64/NoSleepTilBrooklynRootListController.mm.2b21c9e4.o: \
+/Users/ikilledappl3/tweaks/tvOSTweaks/bringbacksleep/.theos/obj/appletv/arm64/NoSleepTilBrooklynRootListController.mm.9e07d052.o: \
   NoSleepTilBrooklynRootListController.mm \
   /Users/ikilledappl3/theos/Prefix.pch \
   /Users/ikilledappl3/theos/vendor/include/_Prefix/BackwardsCompat.h \

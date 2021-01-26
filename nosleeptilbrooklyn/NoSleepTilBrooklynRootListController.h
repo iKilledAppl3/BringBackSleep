@@ -13,7 +13,6 @@ TSKSettingItem *kRespringButton;
 @interface NoSleepTilBrooklynRootListController : TSKViewController
 @property (nonatomic, strong) UIBlurEffect *respringBlur;
 @property (nonatomic, strong) UIVisualEffectView *respringEffectView;
-@property (nonatomic, strong) UIWindow *mainAppRootWindow;
 @end
 
 

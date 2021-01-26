@@ -1,5 +1,5 @@
 # BringBackSleep (NoSleepTilBrooklyn)
-A novelty tweak that disables the great TVSystemMenuService (Control Center) on tvOS 13 and swaps it out for ye olde sleep alert from tvOS of yester-year.
+A novelty tweak that disables the great TVSystemMenuService (Control Center) on tvOS 13+ and swaps it out for ye olde sleep alert from tvOS of yester-year.
 
 # God is Good All The Time and All the time God is good.
 "Blessed are the peacemakers: for they shall be called the children of God." - Matthew 5:9 KJV

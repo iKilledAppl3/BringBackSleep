@@ -24,7 +24,7 @@
 UIViewController *vc = [UIApplication sharedApplication].keyWindow.rootViewController;
 
 
-//then call ther alert controller
+//then call the alert controller
 
 	UIAlertController* alert = [UIAlertController alertControllerWithTitle:@"Sleep Now?"
                                message:@"This will also turn off any connected devices."
